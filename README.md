@@ -1,4 +1,4 @@
-# WELCOME TO MY PYRHON LEARNING JOURNEY
+# WELCOME TO MY PYTHON LEARNING JOURNEY
 Developing expertise in Python with curiosity
 I am an aspiring Analyst documenting my step-by-step progress as I learn Python for data analysis.
 

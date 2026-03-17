@@ -4,33 +4,29 @@ I am an aspiring Analyst documenting my step-by-step progress as I learn Python 
 
 ## 📌 What I'm Learning
 
-● 🐍 Python basics
-
-● 📊 Data analysis
-
-● 🧹 Data cleaning and preprocessing
-
-● 📈 Exploratory Data Analysis (EDA)
-
-● 📉 Data visualization and basic interpretation
+• 🐍 Python basics
+• 📊 Data analysis
+• 🧹 Data cleaning and preprocessing
+• 📈 Exploratory Data Analysis (EDA)
+• 📉 Data visualization and basic interpretation
 
 ## 📂 Repository Structure
 
-● Basics → Python fundamentals
-● Pandas_practice → data manipulation & cleaning
-● Visualization → charts and graphs
-● Mini_projects → real-world data analysis projects
+• Basics → Python fundamentals
+• Pandas_practice → data manipulation & cleaning
+• Visualization → charts and graphs
+• Mini_projects → real-world data analysis projects
 
 ## 📚 Course I'm Following
 
-● Data Analytics Masters – Basics to Advanced (Udemy) 
+• Data Analytics Masters – Basics to Advanced (Udemy) 
 
 ## 🛠 Tools & Libraries
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-orange)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)  
+![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)  
+![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-teal)
 
 ## 🎯 Goal

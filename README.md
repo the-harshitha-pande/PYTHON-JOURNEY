@@ -5,9 +5,13 @@ I am an aspiring Analyst documenting my step-by-step progress as I learn Python 
 ## 📌 What I'm Learning
 
 ● 🐍 Python basics
+
 ● 📊 Data analysis
+
 ● 🧹 Data cleaning and preprocessing
+
 ● 📈 Exploratory Data Analysis (EDA)
+
 ● 📉 Data visualization and basic interpretation
 
 ## 📂 Repository Structure
